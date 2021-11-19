@@ -1,4 +1,3 @@
-
 from tkinter import Tk, Frame, TOP, StringVar, SOLID, LEFT, RIGHT, X, Y, Label, Entry, Button, Scrollbar, HORIZONTAL, VERTICAL, BOTTOM, NO, W
 import sqlite3
 import tkinter.ttk as ttk
